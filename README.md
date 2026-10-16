@@ -3,9 +3,9 @@
 A faithful browser port of *Alley Cat* (IBM PC, 1984, by Bill Williams), rebuilt from the program's
 disassembly, with a write-up of how the game works.
 
-## ▶ [Play Alley Cat in your browser](https://<USER>.github.io/<REPO>/)
+## ▶ [Play Alley Cat in your browser](https://beyondbeneath.github.io/vibe-alleycat/)
 
-[![The Alley Cat title screen](readme-img/title.png)](https://<USER>.github.io/<REPO>/)
+[![The Alley Cat title screen](readme-img/title.png)](https://beyondbeneath.github.io/vibe-alleycat/)
 
 ## How to play
 
