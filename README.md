@@ -769,3 +769,4 @@ and bonus tables to `tools/out/readme-tables.md`.
 ---
 
 Alley Cat © 1984 Synapse Software / IBM. This is a fan port for study and play.
+Decompiled version from: https://github.com/gmegidish/alleycat-disassembly
